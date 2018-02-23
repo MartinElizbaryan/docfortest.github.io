@@ -1,0 +1,42 @@
+1.Profile
+
+2.Ratings + 
+	2.1 Player
+	2.2 Alliance
+
+3.Garage
+
+4.Shop
+
+5.Alliance +
+	5.1 Your Alliance
+	5.2 Create
+	5.3 Join
+
+6.Bank
+
+7.Play City + 
+	7.1 Race
+
+8.Rules
+
+9.Settings + 
+	9.1 Profile -> password,photo
+
+10.Sign out
+
+
+
+-------------------------      CSS      -------------------
+
+---Colors---
+
+Red - red
+green - #00FF00
+orange - #FF5200
+
+---Fonts---
+
+input - input
+text - input2
+name - name

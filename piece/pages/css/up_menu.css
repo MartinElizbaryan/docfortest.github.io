@@ -1,0 +1,105 @@
+@font-face {
+    font-family: main;
+    src: url("../../../font/Knewave-Regular.ttf");
+}
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    color: white;
+    text-decoration: none;
+}
+
+
+/*Login*/
+
+.all{
+    width: 1340px;
+    height: 50px;
+    margin: 0 auto;
+    font-size: 25px;
+    /*background: black;*/
+    font-family: main;
+    color: white;
+    letter-spacing: 1px;
+}
+
+/*Login*/
+
+.login{
+    margin-left: 20px;
+    width: 150px;
+    display: inline-block;
+    height: 35px;
+    /*background: yellow;*/
+    margin-top: 8px;
+
+}
+
+.login_a{
+    /*background: orange;*/
+    text-decoration: none;
+    width: 200px;
+    height: 30px;
+    margin-top: 8px;
+}
+
+.login_a:hover{
+    cursor:url(../../../icon/cursor1.png),pointer;
+    color: red;
+}
+
+
+/*Money*/
+
+.money{
+    margin-left: 100px;
+    width: 150px;
+    display: inline-block;
+    height: 35px;
+    /*background: green;*/
+    color: green;
+}
+
+.real_money{
+    color: green;
+}
+
+/*Gold*/
+
+.gold_money{
+    margin-left: 100px;
+    width: 150px;
+    display: inline-block;
+    height: 35px;
+    /*background: pink;*/
+    color: gold;
+}
+
+
+
+
+/*Back*/
+
+.div_back{
+    width: 150px;
+    display: inline-block;
+    height: 35px;
+    /*background: orange;*/
+    float: right;
+}
+
+.go_back{
+    float: right;
+    margin-right: 20px;
+    margin-top: 8px;
+    text-decoration: none;
+    transition: 0.3s;
+    color: white;
+}
+
+.go_back:hover{
+    color: red;
+}
